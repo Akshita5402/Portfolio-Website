@@ -1,7 +1,7 @@
-### Personal Portfolio Website
+## Personal Portfolio Website
 
 # Link to the website:-
-### https://akshitaportfolio.netlify.app/
+## https://akshitaportfolio.netlify.app/
 
 ## Step 1
 
