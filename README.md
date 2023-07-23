@@ -1,9 +1,9 @@
-###Personal Portfolio Website
+### Personal Portfolio Website
 
-Link:-
-https://akshitaportfolio.netlify.app/
+## Link:-
+### https://akshitaportfolio.netlify.app/
 
-Step 1
+## Step 1
 
 Download the node modules using command:
 npx create-react-app my-app
