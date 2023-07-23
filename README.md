@@ -21,7 +21,7 @@ Make sure that the public folder, src folder, index.html,...., and vite.config.j
 Now the last step, write in terminal:
 `npm run dev`
 
- <sub> _and boom the website is running on the local host_ 🎉 </sub>
+ <sub> _and boom the website is running on the local host LET ME KNOW IF YOU NEED HELP IN HOSTING IT_ 🎉 </sub>
 
 
 
