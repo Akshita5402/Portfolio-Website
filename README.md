@@ -23,5 +23,5 @@ Now the last step, write in terminal:
 
  <sub> _and boom the website is running on the local host_ 🎉 </sub>
 
-![Image](https://akshitaportfolio.netlify.app/assets/profile-89c71c35.jpg)
+![Image](/src/assets/AS.png)
 
